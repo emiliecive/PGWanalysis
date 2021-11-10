@@ -1,4 +1,4 @@
-# Overview of different scripts used for PWG WRF data analysis in Iversen et al. (2022)
+# Overview of different scripts used for PGW WRF data analysis and plotting in Iversen et al. (2022)
 
 ## Scripts to create necessary intermediate files 
 
