@@ -17,3 +17,6 @@ The wrfout files are compressed and temp is added
 * plot\_vertcross3.py (FIG 2): Plot vertical cross sections (longitude - pressure levels) for chosen lattitudinally averaged (over a tile) variables and winter season
 * plot\_vertcross\_case\_PR.py (FIG 3): Same as above, but for a case period, including process rates extracted from Thompson&Eidhammer microphysics scheme from WRF.
 * plot\_de\_desi\_RH.py (FIG 4): Plot change in e (vapor pressure) and esi (saturation vapor pressure wrt. ice) for given changes in water vapor mixing ratio (Q) and temperature (T)
+
+
+### cite the code: [![DOI](https://zenodo.org/badge/349433039.svg)](https://zenodo.org/badge/latestdoi/349433039)
